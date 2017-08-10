@@ -1,0 +1,24 @@
+      body {
+        margin: 0;
+        font-family: 'Roboto', 'Noto', sans-serif;
+        line-height: 1.5;
+        min-height: 100vh;
+        background-color: #eeeeee;
+      }
+
+.container input{width: 200px;}
+.container > *{
+	margin: 0px auto;
+	padding: 5px;
+}
+
+.container button{width: 150px;}
+
+.container 
+{
+    display: flex;
+    flex-direction: column;
+	align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
