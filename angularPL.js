@@ -70,8 +70,7 @@ module1.controller("myCtrl1", function($scope, $location, $firebaseAuth, $fireba
 }); 
 
 
-window.addEventListener('WebComponentsReady ', function() {
-angular.bootstrap(wrap(document), ['ng-polymer-elements']);
+window.addEventListener('WebComponentsReady', function() {
+  angular.bootstrap(wrap(document), ['MODULE1']);
 });
-
 
