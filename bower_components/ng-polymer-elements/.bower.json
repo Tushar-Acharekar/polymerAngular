@@ -33,6 +33,6 @@
     "commit": "dad9eac6d4d9d6ae75087c32913bfe690f3213b1"
   },
   "_source": "https://github.com/GabiAxel/ng-polymer-elements.git",
-  "_target": "~0.3.0",
+  "_target": "^0.3.0",
   "_originalSource": "ng-polymer-elements"
 }
